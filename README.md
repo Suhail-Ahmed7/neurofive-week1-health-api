@@ -99,12 +99,9 @@ http://localhost:3000
 
 ## Live API
 
-Health endpoint:
+* [Home API](https://neurofive-week1-health-e13fkjfey-suhai-ahmeds-projects.vercel.app)
 
-```text
-https://neurofive-week1-health-e13fkjfey-suhai-ahmeds-projects.vercel.app
-https://neurofive-week1-health-e13fkjfey-suhai-ahmeds-projects.vercel.app/health
-```
+* [Health Endpoint](https://neurofive-week1-health-e13fkjfey-suhai-ahmeds-projects.vercel.app/health)
 
 ## Author
 
