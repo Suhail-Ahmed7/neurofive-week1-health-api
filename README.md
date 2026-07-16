@@ -64,7 +64,7 @@ Example response:
 Clone the repository:
 
 ```bash
-git clone (https://github.com/Suhail-Ahmed7/neurofive-week1-health-api)
+git clone https://github.com/Suhail-Ahmed7/neurofive-week1-health-api
 ```
 
 Enter the project folder:
