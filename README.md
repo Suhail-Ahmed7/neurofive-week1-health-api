@@ -1,6 +1,6 @@
 # NeuroFive Week 1 Health-Check API
 
-A small Node.js and Express backend API created for the NeuroFive Solutions Backend Development Internship Week 1 task.
+A small Node.js and Express backend API created for the NeuroFive Solutions Backend Development Internship Week 1 task 1.
 
 ## Purpose
 
@@ -64,7 +64,7 @@ Example response:
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone (https://github.com/Suhail-Ahmed7/neurofive-week1-health-api)
 ```
 
 Enter the project folder:
