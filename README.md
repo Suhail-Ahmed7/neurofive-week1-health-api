@@ -18,7 +18,7 @@ The purpose of this project is to demonstrate:
 - Express.js
 - Nodemon
 - Git and GitHub
-- Render
+- Vercel
 
 ## Project Structure
 
